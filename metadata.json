@@ -1,0 +1,8 @@
+{
+  "name": "Panasuna Chits",
+  "description": "Trusted pioneer in the chit fund industry, helping individuals achieve financial discipline and stability through transparent savings plans.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
